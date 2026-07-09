@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise AI ERP SaaS Platform",
+  "description": "A production-ready cloud-native Enterprise AI ERP SaaS Platform with HRMS, CRM, Finance, Inventory, Project Management, and specialized multi-agent AI copilot capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
